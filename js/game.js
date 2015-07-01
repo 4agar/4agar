@@ -6,4 +6,4 @@ var FPS = 60;
 // game loop
 setInterval(function() {
    
-}, 1000 / FPS); // 1000 is an one second
+}, 1000 / FPS);
