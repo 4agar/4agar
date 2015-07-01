@@ -1,8 +1,6 @@
-var canvas = document.getElementById('Scene');
-var context = canvas.getContext('2d');
 var FPS = 60;
 
-function update() {
+function update () {
     
 }
 
@@ -13,7 +11,6 @@ function draw() {
 }
 
 // game loop
-setInterval(function() {
-    update();
+setInterval(function () {
     draw();
 }, 1000 / FPS);

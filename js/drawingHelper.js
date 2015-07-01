@@ -1,6 +1,3 @@
-var canvas = document.getElementById('Scene');
-var context = canvas.getContext('2d');
-
 var Circle = function (x, y, radius, color) {
     this.centerX = x / 2;
     this.centerY = y / 2;
