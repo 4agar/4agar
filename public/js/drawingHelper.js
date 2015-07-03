@@ -16,3 +16,7 @@ function drawCircle (centerX, centerY, radius, color, strokeColor) {
     context.StrokeStyle = strokeColor;
     context.stroke();
 }
+
+function drawMap() {
+    
+}

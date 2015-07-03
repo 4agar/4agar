@@ -10,7 +10,7 @@ function draw() {
 
     context.clearRect(0, 0, canvas.width, canvas.height); //Clearing canvas
     //drawing code
-
+    
 }
 
 // game loop
